@@ -1,0 +1,2 @@
+# sentimento
+Sentiment Analysis API
